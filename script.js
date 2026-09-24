@@ -15,7 +15,7 @@ const CONFIG = {
     { icon: "🔍", title: "个人简介", desc: "一个尝试", url: "https://deletes12.github.io/a.html" },
     { icon: "📺", title: "小破站", desc: "哔哩哔哩",         url: "https://www.bilibili.com" },
     { icon: "🐙", title: "敲敲更头秃", desc: "GitHub",           url: "https://github.com" },
-    { icon: "📚", title: "题海淹没中", desc: "洛谷",         url: "https://www.luogu.com.cn/" },
+    { icon: "📚", title: "题海淹没中", desc: "洛谷",         url: "https://www.luogu.com.cn/" }
   ]
 };
 
