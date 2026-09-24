@@ -4,8 +4,8 @@ const CONFIG = {
   background: "a.png",
 
   // 页面标题 / 副标题
-  title: "我的导航",
-  subtitle: "点击下面任意标题，即可跳转到对应网站",
+  title: "一个导航",
+  subtitle: "一个小小的尝试",
 
   // 是否在新标签页打开链接
   openInNewTab: true,
@@ -13,11 +13,9 @@ const CONFIG = {
   // 卡片列表（想加多少加多少）
   links: [
     { icon: "🔍", title: "个人简介", desc: "一个尝试", url: "https://deletes12.github.io/a.html" },
-    { icon: "📺", title: "视频网站", desc: "哔哩哔哩",         url: "https://www.bilibili.com" },
-    { icon: "🐙", title: "代码托管", desc: "GitHub",           url: "https://github.com" },
-    { icon: "📚", title: "知识百科", desc: "维基百科",         url: "https://zh.wikipedia.org" },
-    { icon: "✉️", title: "电子邮箱", desc: "网易邮箱",         url: "https://mail.163.com" },
-    { icon: "🛒", title: "购物商城", desc: "淘宝网",           url: "https://www.taobao.com" }
+    { icon: "📺", title: "小破站", desc: "哔哩哔哩",         url: "https://www.bilibili.com" },
+    { icon: "🐙", title: "敲敲更头秃", desc: "GitHub",           url: "https://github.com" },
+    { icon: "📚", title: "题海淹没中", desc: "洛谷",         url: "https://www.luogu.com.cn/" },
   ]
 };
 
